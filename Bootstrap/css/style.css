@@ -1,0 +1,73 @@
+body {
+    font-family: 'Zen Dots';
+}
+header {
+    position: relative;
+    left: 0;
+    right: 0;
+}
+header a {
+    color: black;
+    margin-left: 24px;
+}
+
+#hero-section {
+    background-image: url(../imgs/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+#cointainer-1 {
+    margin: 24px 0 155px 0;
+}
+
+#heading {
+    background-color: teal;
+    background-size: contain;
+    margin: 24px 500px 0 -100px;
+    color: rgb(192, 178, 158);
+    text-align: center;
+    padding: 10px 0 10px 0px;
+
+}
+
+#row-1 {
+    text-align: center;
+}
+#container-2 {
+    margin-top: -200px;
+    margin-bottom: 50px;
+}
+.text1 {
+    text-align: left;
+}
+
+#container-4 {
+    margin-top: 80px;
+}
+#cov-1 {
+    padding-top: 8px;
+}
+#p-1 {
+    color: rgb(95, 93, 93);
+}
+#h3-1 {
+    color: honeydew;
+}
+.td-1 {
+    color: rgb(126, 128, 126);
+}
+#h3-2 {
+    color: honeydew;
+}
+#footer {
+    background-color: black;
+    margin-top: -18px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+#p-2 {
+    color: rgb(95, 93, 93);
+}
